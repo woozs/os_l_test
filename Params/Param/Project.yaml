@@ -1,0 +1,15 @@
+---
+Poject:
+  dec: "项目"
+  parameters:
+    -
+      url: /v3/projects
+      port: 5000
+      data:
+        project:
+            description: Automation_wuzs
+            domain_id: default
+            enabled: true
+            is_domain: false
+            name: Automation_wuzs
+

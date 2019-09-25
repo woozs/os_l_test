@@ -1,0 +1,12 @@
+---
+applications:
+- name: $$NAME$$-$$DATETIME$$-$$VERSION$$
+  memory: 2048m
+  instances: 1
+  disk_quota: 2048m
+################## ==================================================
+  env:
+     APP_ID: "11111111111"
+     TABLE_KEY: "22222222222"
+     SECURITY: "3333333333333"
+     KEY: "6777777777777"

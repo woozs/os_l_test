@@ -1,0 +1,177 @@
+[ERROR 2019-09-09 16:44:53]发送邮件失败，请检查邮件配置
+[ERROR 2019-09-09 16:45:45]发送邮件失败，请检查邮件配置
+[ERROR 2019-09-09 16:46:37]发送邮件失败，请检查邮件配置
+[ERROR 2019-09-09 16:47:18]邮件发送失败，请检查邮件配置
+[INFO 2019-09-09 16:53:18]邮件发送成功
+[DEBUG 2019-09-10 20:47:31]This is debug message
+[INFO 2019-09-10 20:47:31]This is info message
+[WARNING 2019-09-10 20:47:31]This is warning message
+[ERROR 2019-09-10 20:47:31]This is error
+[CRITICAL 2019-09-10 20:47:31]This is critical message
+[DEBUG 2019-09-10 20:48:03]This is debug message
+[INFO 2019-09-10 20:48:03]This is info message
+[WARNING 2019-09-10 20:48:03]This is warning message
+[ERROR 2019-09-10 20:48:03]This is error
+[CRITICAL 2019-09-10 20:48:03]This is critical message
+[INFO 2019-09-11 10:04:59]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-11 10:10:04]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-11 14:58:04]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-11 14:58:58]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-11 14:59:29]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-11 15:01:27]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-11 15:01:32]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-11 15:04:05]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-11 15:23:35]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-11 15:27:56]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-11 15:28:02]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-11 15:29:45]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-11 15:32:58]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-11 15:35:19]初始化配置文件, path=D:\4_code\os_l_test\Conf\cfg.ini
+[INFO 2019-09-11 15:35:26]邮件发送成功
+[INFO 2019-09-11 15:36:57]初始化配置文件, path=D:\4_code\os_l_test\Conf\cfg.ini
+[INFO 2019-09-11 15:37:00]邮件发送成功
+[INFO 2019-09-11 15:44:08]初始化配置文件, path=D:\4_code\os_l_test\Conf\cfg.ini
+[INFO 2019-09-11 15:44:15]邮件发送成功
+[INFO 2019-09-16 10:54:54]初始化配置文件, path=D:\4_code\os_l_test\Conf\cfg.ini
+[INFO 2019-09-16 10:55:11]邮件发送成功
+[INFO 2019-09-17 09:08:13]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-17 09:13:15]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-17 09:20:12]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-17 09:21:55]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-17 09:53:28]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-17 09:55:03]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-17 09:57:17]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-17 09:58:38]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-17 09:58:49]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-17 10:05:34]初始化配置文件, path=D:\4_code\os_l_test\Conf\cfg.ini
+[INFO 2019-09-17 10:05:34]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-17 10:05:41]邮件发送成功
+[INFO 2019-09-19 10:12:07]初始化配置文件, path=D:\4_code\os_l_test\Conf\cfg.ini
+[INFO 2019-09-19 10:12:09]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 10:19:54]初始化配置文件, path=D:\4_code\os_l_test\Conf\cfg.ini
+[INFO 2019-09-19 10:19:54]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 10:21:44]初始化配置文件, path=D:\4_code\os_l_test\Conf\cfg.ini
+[INFO 2019-09-19 10:21:44]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 10:21:53]邮件发送成功
+[INFO 2019-09-19 10:30:05]初始化配置文件, path=D:\4_code\os_l_test\Conf\cfg.ini
+[INFO 2019-09-19 10:30:05]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 10:30:06]配置为不发送邮件
+[INFO 2019-09-19 10:33:05]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 10:34:39]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 10:36:06]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:02:59]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:03:52]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:08:48]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:15:09]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:17:48]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:19:55]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:20:26]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:22:00]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:24:20]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:26:52]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:30:44]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:31:34]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:32:27]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:34:51]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:43:38]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:45:50]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:46:50]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:47:49]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:48:30]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:48:50]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 11:48:59]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 13:54:52]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 14:12:06]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 14:12:30]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 14:34:38]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 14:35:30]初始化配置文件, path=D:\4_code\os_l_test\Conf\cfg.ini
+[INFO 2019-09-19 14:35:30]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[ERROR 2019-09-19 14:35:31]statusCode error, expected_code is 201, statusCode is 409 
+[INFO 2019-09-19 14:35:33]配置为不发送邮件
+[INFO 2019-09-19 14:36:34]初始化配置文件, path=D:\4_code\os_l_test\Conf\cfg.ini
+[INFO 2019-09-19 14:36:34]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 14:36:35]配置为不发送邮件
+[INFO 2019-09-19 15:41:00]初始化配置文件, path=D:\4_code\os_l_test\Conf\cfg.ini
+[INFO 2019-09-19 15:41:01]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 15:41:04]配置为不发送邮件
+[INFO 2019-09-19 15:41:19]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[ERROR 2019-09-19 15:41:20]statusCode error, expected_code is 201, statusCode is 409 
+[INFO 2019-09-19 15:42:00]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 15:44:27]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 16:35:51]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 16:37:03]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 16:38:25]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 16:38:59]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 16:41:12]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 16:41:39]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 16:42:26]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 17:07:50]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 17:14:26]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 17:15:22]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 17:15:51]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 17:16:23]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 18:29:09]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-19 18:30:30]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 10:24:23]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 10:39:23]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 10:40:02]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 10:40:49]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 10:41:50]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 10:42:07]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 10:43:40]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 10:44:40]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 10:46:02]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 10:50:45]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[ERROR 2019-09-20 10:50:56]statusCode error, expected_code is 201, statusCode is 401 
+[INFO 2019-09-20 10:54:51]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 10:55:44]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 11:01:09]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 11:01:59]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 11:02:24]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 11:02:54]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 11:04:15]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 11:18:14]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 11:18:14]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[ERROR 2019-09-20 11:18:15]statusCode error, expected_code is 201, statusCode is 400 
+[INFO 2019-09-20 11:19:15]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 11:19:15]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[INFO 2019-09-20 11:22:31]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 11:22:31]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[ERROR 2019-09-20 11:22:32]statusCode error, expected_code is 201, statusCode is 400 
+[INFO 2019-09-20 11:25:45]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 11:25:45]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[ERROR 2019-09-20 11:25:45]statusCode error, expected_code is 201, statusCode is 400 
+[INFO 2019-09-20 11:26:10]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 11:26:10]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[ERROR 2019-09-20 11:26:11]statusCode error, expected_code is 201, statusCode is 400 
+[INFO 2019-09-20 11:26:31]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 11:26:31]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[ERROR 2019-09-20 11:26:32]statusCode error, expected_code is 201, statusCode is 400 
+[INFO 2019-09-20 11:28:19]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 11:28:19]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[ERROR 2019-09-20 11:28:19]statusCode error, expected_code is 201, statusCode is 400 
+[INFO 2019-09-20 12:23:53]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 12:23:53]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[ERROR 2019-09-20 12:23:53]statusCode error, expected_code is 201, statusCode is 400 
+[INFO 2019-09-20 12:28:13]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 12:28:13]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[ERROR 2019-09-20 12:28:14]statusCode error, expected_code is 201, statusCode is 400 
+[INFO 2019-09-20 12:28:24]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 12:28:24]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[ERROR 2019-09-20 12:28:24]statusCode error, expected_code is 201, statusCode is 400 
+[INFO 2019-09-20 12:29:36]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 12:29:36]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[ERROR 2019-09-20 12:29:37]statusCode error, expected_code is 201, statusCode is 400 
+[INFO 2019-09-20 12:29:57]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 12:29:57]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[ERROR 2019-09-20 12:29:58]statusCode error, expected_code is 201, statusCode is 400 
+[INFO 2019-09-20 12:30:11]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 12:30:11]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[ERROR 2019-09-20 12:30:19]statusCode error, expected_code is 201, statusCode is 401 
+[INFO 2019-09-20 12:36:26]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 12:36:26]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[INFO 2019-09-20 12:38:13]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 12:38:13]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml
+[ERROR 2019-09-20 12:38:13]statusCode error, expected_code is 201, statusCode is 400 
+[INFO 2019-09-20 12:45:10]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Project.yaml
+[INFO 2019-09-20 12:45:10]解析yaml, Path:D:\4_code\os_l_test/Params/Yaml/Network.yaml

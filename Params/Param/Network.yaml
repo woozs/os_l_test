@@ -1,0 +1,27 @@
+---
+Network:
+  dec: "网络"
+  parameters:
+    -
+      url: /v2.0/networks
+      port: 9696
+      data:
+        network:
+            admin_state_up: true
+            dns_domain:
+            mtu: 1500
+            name: auto_api_netwrok
+            port_security_enabled:
+            project_id: "$$PLACEHOLDER$$"
+            provider:network_type:
+            provider:physical_network:
+            provider:segmentation_id:
+            qos_policy_i:
+            router:external:
+            segments:
+            shared: flase
+            tenant_id: "$$PLACEHOLDER$$"
+            vlan_transparent:
+            description:
+            is_default:
+            availability_zone_hints:

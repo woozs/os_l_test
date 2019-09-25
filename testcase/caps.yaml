@@ -1,0 +1,10 @@
+project:
+  description: Automation_wuzs
+  domain_id: default
+  enabled: true
+  id: 8edc73ccda1744738fe70d79ff4219a4
+  is_domain: false
+  links:
+    self: http://192.168.163.21:5000/v3/projects/8edc73ccda1744738fe70d79ff4219a4
+  name: Automation_wuzs
+  parent_id: null
